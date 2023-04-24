@@ -1,8 +1,5 @@
 ### Hi there I'm Sonu 👋
 
-<!--
-**shoc71/shoc71** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on some front-end projects, and web apps using HTML, CSS and JS but mostly python related functions and problem solving
@@ -11,4 +8,3 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with JS related dynamic, and website modeling
 - 💬 Ask me about any python-related problems (js and C++ soon)
 - 📫 How to reach me: mrdrlogic@gmail.com
--->
