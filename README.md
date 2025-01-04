@@ -1,4 +1,4 @@
-### Hi there I'm Sonu 👋
+### Hi there 👋
 
 Here are some ideas to get you started:
 
